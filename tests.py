@@ -1,6 +1,8 @@
 from tkinter import *
 import pickle
 
+#testy w testach
+
 def close():
     o.destroy()
 
