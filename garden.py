@@ -2,6 +2,7 @@ from tkinter import *
 import pickle
 
 #testy z gitem
+#test comment from jim
 
 def create_buttons(o):
     global buttons
