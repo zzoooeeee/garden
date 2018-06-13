@@ -1,6 +1,8 @@
 from tkinter import *
 import pickle
 
+#testy z gitem
+
 def create_buttons(o):
     global buttons
     buttons = []
